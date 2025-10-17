@@ -3,7 +3,9 @@
 Dimension is a mixed reality installation project by Amy Cooke, Roarna Knowler & Neo Te Aika.
 This is a repo of the Unity prototype I built for our project proposal, focused on exploring a stencil method wielded to allow for a "looking glass effect", where headset users would be able to circumnavigate a scale pyramid with different microterrain from each side, being able to walk within and get up close from any side they enter.
 
-An *.APK is attached to the releases tab. This is a general Android package but was developed specifically for Meta Quest 2.
+- An *.APK is attached to the releases tab. This is a general Android package but was developed specifically for Meta Quest 2. This project is also built upon the Meta XR project template.
+- Also attached is the audio track composed as a concept piece, also available shortly at https://music.neoteaika.com
+- Terrain texture materials are by Screaming Brains Studios: https://screamingbrainstudios.com
 
 ![mpv-shot0002](https://github.com/user-attachments/assets/9bb655f8-ae6c-40d5-9f8c-68aacea6e7ed)
 ![mpv-shot0001](https://github.com/user-attachments/assets/64ec0b03-b9e9-4c9a-b2ec-465398cb8aaa)
